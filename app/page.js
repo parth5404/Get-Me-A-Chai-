@@ -1,7 +1,6 @@
 import Image from "next/image";
 import Navbar from "@/app/components/Navbar"; // Assuming you have a Navbar component
-import Footer from "@/app/components/Footer"; // Assuming you have a Footer component
-import SimpleSections from "@/app/components/Aboutushowitworks";
+
 export default function Home() {
   return (
     <div className=" my-8 max-h-screen text-white flex flex-col">
